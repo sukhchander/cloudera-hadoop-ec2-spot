@@ -1,0 +1,39 @@
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<configuration>
+<property>
+  <name>hadoop.job.ugi</name>
+  <value>root,root</value>
+</property>
+<property>
+  <name>fs.default.name</name>
+  <value>hdfs://ec2-174-129-61-156.compute-1.amazonaws.com:8020/</value>
+</property>
+<property>
+  <name>mapred.job.tracker</name>
+  <value>ec2-174-129-61-156.compute-1.amazonaws.com:8021</value>
+</property>
+<property>
+  <name>hadoop.socks.server</name>
+  <value>localhost:6666</value>
+</property>
+<property>
+  <name>hadoop.rpc.socket.factory.class.default</name>
+  <value>org.apache.hadoop.net.SocksSocketFactory</value>
+</property>
+<property>
+  <name>fs.s3.awsAccessKeyId</name>
+  <value>AKIAJVMWT7S24UXBFGIA</value>
+</property>
+<property>
+  <name>fs.s3.awsSecretAccessKey</name>
+  <value>XFwaAuBV8eUYjkExxHT91bGSvKmCpZLstcKwXa+0</value>
+</property>
+<property>
+  <name>fs.s3n.awsAccessKeyId</name>
+  <value>AKIAJVMWT7S24UXBFGIA</value>
+</property>
+<property>
+  <name>fs.s3n.awsSecretAccessKey</name>
+  <value>XFwaAuBV8eUYjkExxHT91bGSvKmCpZLstcKwXa+0</value>
+</property>
+</configuration>

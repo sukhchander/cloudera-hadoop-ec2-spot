@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/14396/KAMR/trunk/clouderaec2/hadoop/cloud
+END
+service.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14396/KAMR/trunk/clouderaec2/hadoop/cloud/service.py
+END
+cluster.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14364/KAMR/trunk/clouderaec2/hadoop/cloud/cluster.py
+END
+cli.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14366/KAMR/trunk/clouderaec2/hadoop/cloud/cli.py
+END

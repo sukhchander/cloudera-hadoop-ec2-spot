@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14396/KAMR/trunk/clouderaec2/hadoop/cloud/providers
+END
+ec2.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14364/KAMR/trunk/clouderaec2/hadoop/cloud/providers/ec2.py
+END
+ec2spot.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14396/KAMR/trunk/clouderaec2/hadoop/cloud/providers/ec2spot.py
+END
